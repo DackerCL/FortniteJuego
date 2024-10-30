@@ -1,6 +1,15 @@
 # FortniteJuego
-Gotas Buenas (mini escudos-slurp): Aumentan la puntuación cuando las recolectas.
-Gotas Malas (balas-dinamita): Reducen vidas si las tocas.
-Gotas Especiales (escudo grande-splashes): Otorgan una puntuación más alta que las gotas normales.
 
-Al llegar a los 1000 puntos, el juego cambia visualmente: el fondo se actualiza y las gotas caen más rápido con una nueva apariencia. También hay una opción de pausa que detiene tanto el juego como la música. Además, el juego guarda el puntaje más alto alcanzado. 
+## Características del Juego
+
+### Tipos de Gotas
+- **Gotas Buenas (mini escudos)**: Estas gotas aumentan la puntuación del jugador al recolectarlas, ofreciendo una forma de progresar y aumentar el puntaje.
+- **Gotas Malas (balas)**: Cuidado con estas gotas; reducen vidas al contacto y ponen en riesgo tu progreso.
+- **Gotas Especiales (escudo grande)**: Otorgan una puntuación significativamente mayor que las gotas buenas, representando un desafío valioso para maximizar el puntaje.
+
+### Cambios Visuales y Progresión
+- Al alcanzar **1000 puntos**, el juego introduce un cambio visual: el fondo se actualiza a un nuevo escenario, y las gotas adquieren una apariencia diferente y caen con mayor velocidad, aumentando el nivel de desafío.
+
+### Funcionalidades Adicionales
+- **Pausa**: El jugador puede pausar el juego en cualquier momento, lo que detiene tanto el juego como la música de fondo.
+- **Puntaje Máximo**: El juego guarda el puntaje más alto alcanzado, incentivando a los jugadores a mejorar su desempeño en cada partida.
